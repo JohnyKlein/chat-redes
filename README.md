@@ -1,17 +1,10 @@
-# Chat-rede
+#Chat-rede
+##Rodando o projeto:
+Necessário baixar as dependências do projeto com: npm install
 
-## Rodando o projeto
+Rodar o servidor: node app/server.js
 
-Necessario baixar as dependencias do projeto com ~npm install~
+Para cada conexão de usuário é necessário abrir outro terminal e rodar...: node app/client.js
 
-Rodar o servidor
-~node app/server.js~
-
-Para cada conexao de usuario e necessario abrir outro terminal e rodar
-
-~node app/client.js~
-
-## Utilizacao
-
-Apos entrar no chat digite seu nome, e para sair, digite "exit".
-
+##Utilização:
+Após entrar no chat digite seu nome. Para sair, digite "exit".
